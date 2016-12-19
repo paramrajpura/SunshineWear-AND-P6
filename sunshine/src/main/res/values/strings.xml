@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_digital_name">My Digital</string>
+    <string name="wear_data_key">test</string>
+    <string name="wear_data_path">/SunshineWearData</string>
+    <string name="wear_time_key">timestamp</string>
+    <string name="wear_high_key">high</string>
+    <string name="wear_low_key">low</string>
+    <string name="wear_icon_key">icon</string>
+</resources>
